@@ -44,14 +44,9 @@ At the completion of this module you should
 
 ### Before class
 
-### In class
-
-## Wednesday, February 21
-
-### Before class
+- Read *Walden*, "Economy," paragraphs 71 to end.
+- Read [From Metareading to Markup]({{ site.url }}/mod-4/from-metareading-to-markup) and [Markup and Manuscripts]({{ site.url }}/mod-4/markup-and-manuscripts) in this module.
 
 ### In class
 
-## Friday, February 23
-
-- Group 5 meeting
+We'll discuss Thoreau, metareading, and markup languages.
