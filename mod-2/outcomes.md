@@ -29,9 +29,9 @@ At the completion of this module you should
 - We'll discuss *Broad Band*.
 - We'll get ourselves accustomed to the terminal
 
-### Product
+<!-- ### Product
 
-- tbd
+- tbd -->
 
 ## Wednesday, January 31
 
@@ -44,9 +44,9 @@ At the completion of this module you should
 
 - We'll fun at the command line.
 
-### Product
+<!-- ### Product
 
-- tbd
+- tbd -->
 
 ## Friday, February 2
 

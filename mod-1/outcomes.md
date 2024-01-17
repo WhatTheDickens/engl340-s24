@@ -29,9 +29,9 @@ At the completion of this module, you should
 
 - We'll discuss *Broad Band* and make sure everyone's GUI is set up per the instructions in the module.
 
-### Product
+<!-- ### Product
 
-- Share information about your operating system and files.
+- Share information about your operating system and files. -->
 
 ## Friday, January 26
 
