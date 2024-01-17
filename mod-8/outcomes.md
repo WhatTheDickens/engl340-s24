@@ -13,7 +13,7 @@ At the completion of this module you should
 2. Second outcome
 3. Third outcome
 
-# Activities
+# Dates and Activities
 
 ## Monday, March 25
 

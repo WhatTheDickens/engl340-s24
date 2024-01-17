@@ -13,7 +13,7 @@ At the completion of this module you should
 2. Second outcome
 3. Third outcome
 
-# Activities
+# Dates and Activities
 
 ## Monday, April 8
 
@@ -31,33 +31,33 @@ At the completion of this module you should
 
 - Group project work in class
 
-## Wednesday, April 
+## Wednesday, April 17
 
 - Group project work in class
 
 ## Friday, April 19
 
-- No class meeting: SUNY Digital Learning Conference
+- No class meeting: SUNY Digital Learning Conference.
 
 ## Monday, April 22
 
 ## Wednesday, April 24
 
-- No class meeting: GREAT Day
+- No class meeting: GREAT Day.
 
 ## Friday, April 26
 
-- Group project work in class
+- Group project work in class.
 
 ## Monday, April 29
 
-- Group project work in class
+- Group project work in class.
 
 ## Wednesday, May 1
 
-- Group project work in class
+- Group project work in class.
 
 ## Friday, May 3
 
-- Group project work in class
+- Group project work in class.
 

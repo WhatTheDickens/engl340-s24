@@ -50,4 +50,4 @@ At the completion of this module you should
 
 ## Friday, February 2
 
-- Group 2 small-group meeting
+- Group 2 small-group meeting.

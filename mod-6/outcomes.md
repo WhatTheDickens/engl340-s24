@@ -37,7 +37,7 @@ At the completion of this module you should
 
 ## Friday, March 1
 
-- Group 1 meeting
+- Group 1 meeting.
 
 <!-- ## Assignment: Fluid-text TEI
 

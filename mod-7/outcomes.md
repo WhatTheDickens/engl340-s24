@@ -15,7 +15,7 @@ At the completion of this module you should
 3. Be able to write basic web pages in HTML
 4. Be able to style basic web pages with CSS
 
-# Activities
+# Dates and Activities
 
 ## Monday, March 4
 

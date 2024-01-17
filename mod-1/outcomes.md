@@ -14,6 +14,10 @@ At the completion of this module, you should
 
 # Dates and Activities
 
+## Monday, January 22
+
+- 👋
+
 ## Wednesday, January 24
 
 ### Before class

@@ -49,4 +49,4 @@ At the completion of this module you should
 
 ### In class
 
-We'll discuss Thoreau, metareading, and markup languages.
+- We'll discuss Thoreau, metareading, and markup languages.
