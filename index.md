@@ -95,7 +95,7 @@ How will you know if you’ve met the individual outcomes? How will we know if w
 
 ## Requirements and evaluation
 
-*Your final grade in this course will be based on the number of points you earn out of a maximum of 100 points. You’ll earn points for the activities listed below. You must complete all assigned work to pass the course.*
+Your final grade in this course will be based on the number of points you earn out of a maximum of 100 points. You’ll earn points for the activities listed below. You must complete all assigned work to pass the course.
 
 - **Blog**: You'll earn up to **30** points for two blog posts (15 points each) in which you reflect on your learning in this course. (Due 2/19 and 4/26.) 
 - **Class work**: You'll earn up to **40** points for in-class work submitted *by the end of each class meeting.* (Typically, 1 point per timely submission.)
@@ -107,7 +107,7 @@ In addition to a working laptop computer running an up-to-date version of macOS,
 
 - An account at [English @ SUNY Geneseo](https://sunygeneseoenglish.org)
 - An account at [The Readers' Thoreau](https://commons.digitalthoreau.org)
-- The Microsoft Teams app (available to all Geneseo users; the web version of Teams not suffice)
+- The Microsoft Teams app (available to all Geneseo users; the web version of Teams won't suffice)
 - Visual Studio Code, BBEdit, or another plain-text editor with syntax-highlighting (explained in module)
 - Git Bash or WSL for Windows (Windows users only; explained in module)
 
