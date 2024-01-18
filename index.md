@@ -18,6 +18,7 @@ Welcome to ENGL 340, Spring 2024, *Literature and Literary Study in the Digital 
 - [Do you have a disability?](#do-you-have-a-disability)
 - [Take care of yourself](#take-care-of-yourself)
 - [Think about others](#think-about-others)
+- [Additional resources](#additional-resources)
 - [Schedule at a glance](#schedule-at-a-glance)
 
 ## What the course is about
@@ -105,6 +106,10 @@ It’s hard work being a student! You can improve your chances of success by eat
 - Practice [forbearance](https://www.merriam-webster.com/dictionary/forbearance) when offended by others, even as you exercise your right to explain your reasons for taking offense
 - Consider how the world looks to someone who is not you
 - Do your best to address others as they prefer to be addressed
+
+## Additional resources
+
+The SUNY Geneseo Office of the Provost has compiled a [very helpful one-page catalog of student resources](https://sunygeneseo.sharepoint.com/sites/provost/sitepages/syllabus%20resources%20related%20to%20student%20success/syllabus-resources-related-to-student-success.aspx?web=1&xsdata=MDV8MDJ8fDJhNzk2YmNjODcwZTQ3MzYxN2I5MDhkYzEyZWI3MDRlfDAyY2U5MzRmMDY2YTRkMDBiODI4Y2VkYmE3Y2Y0Zjc5fDB8MHw2Mzg0MDYwNDk1OTA1NDg0MDl8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxMMk5vWVhSekx6RTVPamN5TkdabFpqQmxMV0psTVRFdE5EaGlPUzA1WkdNekxUSTFZbUZrTnpCaFpHVTFORjltT1RkaU5qSXhNQzFrWTJWaExUUmxNR0V0WWpjd09DMDFNRFl4TTJJNE1qUmpZbVpBZFc1eExtZGliQzV6Y0dGalpYTXZiV1Z6YzJGblpYTXZNVGN3TlRBd09ERTFOemM0T0E9PXw5NDdlYTNmZDU2NTg0YWViMTdiOTA4ZGMxMmViNzA0ZXwyY2I1OGUzYjZhZDA0N2VjOTExMzlhOWFkMmVjMDcyOQ%3d%3d&sdata=MkdnWFQvRWlvM21LUDFxWmpmbStQdHI2Z3lXUlY1Y0RHVTBEbDBJdDg0Yz0%3d&ovuser=02ce934f-066a-4d00-b828-cedba7cf4f79%2cblood%40geneseo.edu&OR=Teams-HL&CT=1705008255154&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI1MC8yMzExMTYzMDAxMyIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3d%3d&SafelinksUrl=https%3a%2f%2fsunygeneseo.sharepoint.com%2fsites%2fprovost%2fsitepages%2fsyllabus%2520resources%2520related%2520to%2520student%2520success%2fsyllabus-resources-related-to-student-success.aspx) covering a wide range of topics, including personal health and well-being, food security, and how to report bias-related incidents. 
 
 ## Schedule at a glance
 
