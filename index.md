@@ -16,6 +16,7 @@ Welcome to ENGL 340, Spring 2024, *Literature and Literary Study in the Digital 
 - [Assessment](#assessment)
 - [What we'll read](#what-well-read)
 - [Requirements and evaluation](#requirements-and-evaluation)
+- [Tools and accounts](#tools-and-accounts)
 - [Do you have a disability?](#do-you-have-a-disability)
 - [Take care of yourself](#take-care-of-yourself)
 - [Think about others](#think-about-others)
@@ -99,6 +100,16 @@ How will you know if you’ve met the individual outcomes? How will we know if w
 - **Blog**: You'll earn up to **30** points for two blog posts (15 points each) in which you reflect on your learning in this course. (Due 2/19 and 4/26.) 
 - **Class work**: You'll earn up to **40** points for in-class work submitted *by the end of each class meeting.* (Typically, 1 point per timely submission.)
 - **Project work**: You'll earn up to **30** points for a group project to which you contribute, with **10** of those points coming from your personal contribution to the project and a final blog post you'll write about your work on it.
+
+## Tools and accounts
+
+In addition to a working laptop computer running an up-to-date version of macOS, Windows, or Linux, you'll need some additional tools and accounts. The modules explain how to obtain the last two of these, so don't rush out in search of them until we've discussed them in class.
+
+- An account at [English @ SUNY Geneseo](https://sunygeneseoenglish.org)
+- An account at [The Readers' Thoreau](https://commons.digitalthoreau.org)
+- The Microsoft Teams app (available to all Geneseo users; the web version of Teams not suffice)
+- Visual Studio Code, BBEdit, or another plain-text editor with syntax-highlighting (explained in module)
+- Git Bash or WSL for Windows (Windows users only; explained in module)
 
 ## Do you have a disability?
 
