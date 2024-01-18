@@ -6,7 +6,10 @@ nav_order: 0
 
 # Meet the Course
 
-Welcome to ENGL 340, Spring 2024, *Literature and Literary Study in the Digital Age* at SUNY Geneseo. There's so much to tell you about it! Use the links below to navigate the content on this page.
+<img src="assets/cat_alog_3.jpg" alt="a cat sitting in a card catalog drawer" />  
+*Image based on ["Insert Catalog Joke Here"](https://www.flickr.com/photos/klara/7253787934/), by user [Klara](https://www.flickr.com/photos/klara/) on Flickr. License: [CC-BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/).*
+
+Oh hi! Welcome to ENGL 340, Spring 2024, *Literature and Literary Study in the Digital Age* at SUNY Geneseo. There's so much to tell you about it! Use the links below to navigate the content on this page.
 
 - [What the course is about](#what-the-course-is-about)
 - [Who's teaching the course](#whos-teaching-the-course)
