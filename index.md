@@ -6,7 +6,7 @@ nav_order: 0
 
 # Meet the Course
 
-Welcome to ENGL 340, Spring 2024, *Literature and Literary Study in the Digital Age* at SUNY Geneseo. There's so much to tell you about it! The links below will make it easier for you to navigate the content on this page.
+Welcome to ENGL 340, Spring 2024, *Literature and Literary Study in the Digital Age* at SUNY Geneseo. There's so much to tell you about it! Use the links below to navigate the content on this page.
 
 - [What the course is about](#what-the-course-is-about)
 - [Who's teaching the course](#whos-teaching-the-course)
@@ -26,15 +26,15 @@ Welcome to ENGL 340, Spring 2024, *Literature and Literary Study in the Digital 
 
 In this course, we'll work together to understand how computers have changed the field of possibilities for studying books&mdash;in particular, books of the kind usually classified as "literature."
 
-To do this, we'll need some base level of understanding for the two parts of this equation: computers on the one hand, books on the other. *Broad Band: The Untold Story of the Women Who Made the Internet*, by Claire L. Evans, will help us establish a base-level understanding of computers that's not just technical but historical. *The Book*, by Amaranth Borsuk, will do the same for us with books. 
+To do this, we'll need some base level of understanding for the two parts of our equation: computers on the one hand, books on the other. *Broad Band: The Untold Story of the Women Who Made the Internet*, by Claire L. Evans, will help us establish a base-level understanding of computers that's not just technical but historical, with an emphasis on the frequently neglected role of women in the history of computing. *The Book*, by Amaranth Borsuk, will introduce us to the material and conceptual history of the book. 
 
-We'll also need a book that we can keep coming back to in order to test what computers can help us do with literature. [*Walden*](https://commons.digitalthoreau.org/walden/), by Henry David Thoreau, will be that book. Because *Walden* is a book that's partly about technology, in which the author also has some provocative things to say about literature, it will also help us think more broadly about the relationship between books and computers.
+We'll also need a particular book that we can keep coming back to in order to test what computers can help us do with literature. [*Walden*](https://commons.digitalthoreau.org/walden/), by Henry David Thoreau, will be that book. Because *Walden* is a book that's partly about technology, in which the author has some provocative things to say about literature, it will also help us think more broadly about the relationship between books and computers.
 
-Finally, everyone will need to have a working computer running the software required to do the things we want them to do with literature. Specifically, you'll need a laptop running a reasonably up-to-date version of Windows, macOS, or Linux. Chromebooks, tablets, and phones won't suffice. You'll need to bring your laptop to every class. If your laptop breaks down or is lost or stolen, you'll need to find a substitute.
+Finally, everyone will need to have a working computer running the software required to do the things we want our computers to do with literature. Specifically, you'll need a laptop running a reasonably up-to-date version of Windows, macOS, or Linux. Chromebooks, tablets, and phones won't suffice. You'll need to bring your laptop to every class. If your laptop breaks down or is lost or stolen, you'll need to find a substitute.
 
 ## Who's teaching the course
 
- I'm Paul Schacht, Professor of English and [Director of the Center for Digital Learning](https://geneseo.edu/cdl) at SUNY Geneseo. I've taught here since 1985. I use he/him pronouns. I love other people's pets but don't have any of my own.
+ I'm Paul Schacht, Professor of English and [Director of the Center for Digital Learning](https://geneseo.edu/cdl) at SUNY Geneseo. I've taught here since 1985. I use he/him pronouns. I somehow can't quit X, where I'm [@WhatTheDickens](https://twitter.com/whatthedickens) and [@DigitalThoreau](https://twitter.com/digitalthoreau), but I rarely post there as either any longer. I can also be found on Mastodon ([WhatTheDickens@mastodon.online](https://mastodon.online/@whatthedickens), [DigitalThoreau@hcommons.social](https://hcommons.social/@digitalthoreau)) but am still settling in there.
 
 ## When we'll meet
 
@@ -74,7 +74,7 @@ What will we accomplish in this course as a community?
 
 ### Module-specific outcomes
 
-On the "Outcomes/Activities" page for each module, you'll find learn outcomes specific that module.
+On the "Outcomes/Activities" page for each module, you'll find learning outcomes specific to that module.
 
 ## Assessment
 
@@ -100,11 +100,11 @@ Coming soon
 
 ## Do you have a disability?
 
-SUNY Geneseo will make reasonable accommodations for persons with documented physical, emotional or learning disabilities. Accommodations will be made for medical conditions related to pregnancy or parenting. Requests for accommodations including letters or review of existing accommodations should be directed to the [Office of Disability Services](http://www.geneseo.edu/dean_office/disability_services) in Erwin 22 (Ms. Heather Packer, disabilityservices-at-geneseo.edu or 585-245-5112). If you have an accommodation letter, let me know as soon as possible in the semester so we can discuss specific arrangements.
+SUNY Geneseo will make reasonable accommodations for persons with documented physical, emotional or learning disabilities. Accommodations will be made for medical conditions related to pregnancy or parenting. Requests for accommodations including letters or review of existing accommodations should be directed to the [Office of Accessibility Services](https://www.geneseo.edu/accessibility-office) in Erwin 22. If you have an accommodation letter, let me know as soon as possible in the semester so we can discuss specific arrangements.
 
 ## Take care of yourself
 
-It’s hard work being a student! You can improve your chances of success by eating well, getting enough sleep, and making wise choices. **If you need help, ask for it.** [Student Health and Counseling](https://www.geneseo.edu/health) can help you if you’re sick or need psychological or emotional support. A variety of [Campus Learning Centers](https://www.geneseo.edu/library/center-academic-excellence), including the [Writing Learning Center](https://www.geneseo.edu/english/writing_center), offer academic support services. **And then there’s me.** [Schedule an appointment](http://schacht.youcanbook.me) to see me in my office or meet online for help with assignments, to tell me if you’re facing basic obstacles to success such as food insecurity, or to continue the conversation about readings and topics in the course. If reading or discussing certain kinds of content in this course might prove traumatic for you, let me know and we’ll work together to figure out a reasonable solution. You should be prepared for the fact that some works on the syllabus contain depictions of or allusions to violence and sexuality.
+It’s hard work being a student! You can improve your chances of success by eating well, getting enough sleep, and making wise choices. **If you need help, ask for it.** [Student Health and Counseling](https://www.geneseo.edu/health) can help you if you’re sick or need psychological or emotional support. A variety of [Campus Learning Centers](https://www.geneseo.edu/library/center-academic-excellence), including the [Writing Learning Center](https://www.geneseo.edu/english/leadership-and-hands-learning#writing-learning-center), offer academic support services. **And then there’s me.** [Schedule an appointment](https://schacht.youcanbook.me) to see me in my office or meet online for help with assignments, to tell me if you’re facing basic obstacles to success such as food insecurity, or to continue the conversation about readings and topics in the course. If reading or discussing certain kinds of content in this course might prove traumatic for you, let me know and we’ll work together to figure out a reasonable solution. You should be prepared for the fact that some works on the syllabus contain depictions of or allusions to violence and sexuality.
 
 ## Think about others
 
