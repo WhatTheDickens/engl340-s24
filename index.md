@@ -11,6 +11,7 @@ Welcome to ENGL 340, Spring 2024, *Literature and Literary Study in the Digital 
 - [What the course is about](#what-the-course-is-about)
 - [Who's teaching the course](#whos-teaching-the-course)
 - [When we'll meet](#when-well-meet)
+- [How and when to find me](#how-and-when-to-find-me)
 - [Learning outcomes](#learning-outcomes)
 - [Assessment](#assessment)
 - [What we'll read](#what-well-read)
@@ -39,6 +40,11 @@ Finally, everyone will need to have a working computer running the software requ
 
 - Mondays and Wednesdays, 12:30 pm - 1:45 pm; Fridays, 1:30 pm - 1:20 pm
 - Final meeting (attendance mandatory) Monday, May 6, 12 pm - 3:20 pm
+
+## How and when to find me
+
+- Wednesday, 2:30 pm - 4:00 pm in South 347
+- Any free time that works for you at [https://schacht.youcanbook.me](https://schacht.youcanbook.me)
 
 ## Learning outcomes
 
