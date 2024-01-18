@@ -19,7 +19,7 @@ Now head over to the [GitHub repository that houses the TEI files for the 18 cha
 
 Download this file to your computer. You can do this by right-clicking the <kbd>Raw</kbd> button and saving the file to your computer. But why not use your command-line skills for this? Open a terminal window, `cd` to the location where you'd like to save the file, and type the following at the prompt:
 
-```console    
+```zsh    
     curl https://raw.githubusercontent.com/milnegeneseo/fluid_text/master/tei/05.xml > 05.xml
 ```
 

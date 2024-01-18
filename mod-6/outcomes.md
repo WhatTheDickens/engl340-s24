@@ -8,9 +8,8 @@ nav_order: 1
 
 At the completion of this module you should
 
-1. First outcome
-2. Second outcome
-3. Third outcome
+1. Understand the value of modeling textual data using a machine-readable markup language
+2. Understand how XML/TEI is used by digital scholarly editors to model textual data
 
 # Dates and Activities
 

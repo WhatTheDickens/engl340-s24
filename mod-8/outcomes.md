@@ -9,9 +9,8 @@ nav_order: 0
 
 At the completion of this module you should
 
-1. First outcome
-2. Second outcome
-3. Third outcome
+1. Understand what the International Image Interoperability Framework (IIIF) is and why it's used by digital scholarly editors
+2. Be able to incorporate IIIF images into a web page in a variety of ways
 
 # Dates and Activities
 

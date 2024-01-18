@@ -8,9 +8,9 @@ nav_order: 0
 
 At the completion of this module you should
 
-1. First outcome
-2. Second outcome
-3. Third outcome
+1. Understand what sets scholarly editing apart from other kinds of editing
+2. Understand what kind of reading a scholarly editor does
+3. Understand what sets digital scholarly editing apart from scholarly editing without computers
 
 # Dates and Activities
 

@@ -9,9 +9,9 @@ nav_order: 0
 
 At the completion of this module you should
 
-1. First outcome
-2. Second outcome
-3. Third outcome
+1. Understand the difference between modeling manuscript alterations and modeling an author's revision process
+2. Be able to build and share a revision narrative, together with your group, about the set of alterations to *Walden* your group has chosen to study
+3. Be able to create a simple, valid TEI file modeling selected alterations to a *Walden* manuscript page your group has chosen to study
 
 # Dates and Activities
 

@@ -9,9 +9,8 @@ nav_order: 0
 
 At the completion of this module you should
 
-1. First outcome
-2. Second outcome
-3. Third outcome
+1. Understand the insights your classmates share based on their encoding work and the revision narratives they've built
+2. Feel wonderful about what you've learned in ENGL 340 this semester
 
 # Date and Activities
 

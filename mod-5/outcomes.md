@@ -8,9 +8,8 @@ nav_order: 1
 
 At the completion of this module you should
 
-1. First outcome
-2. Second outcome
-3. Third outcome
+1. Understand the history of the *Walden* manuscript
+2. Understand how a scholarly editor can model an author's revisions based on manuscript evidence 
 
 # Dates and Activities
 
