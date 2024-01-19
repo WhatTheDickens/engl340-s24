@@ -13,6 +13,7 @@ Welcome to ENGL 340, Spring 2024, *Literature and Literary Study in the Digital 
 
 - [What the course is about](#what-the-course-is-about)
 - [Who's teaching the course](#whos-teaching-the-course)
+- [Who the course is for](#who-the-course-is-for)
 - [When we'll meet](#when-well-meet)
 - [How and when to find me](#how-and-when-to-find-me)
 - [Learning outcomes](#learning-outcomes)
@@ -39,6 +40,10 @@ Finally, everyone will need to have a working computer running the software requ
 ## Who's teaching the course
 
  I'm Paul Schacht, Professor of English and [Director of the Center for Digital Learning](https://geneseo.edu/cdl) at SUNY Geneseo. I've taught here since 1985. I use he/him pronouns. I somehow can't quit X, where I'm [@WhatTheDickens](https://twitter.com/whatthedickens) and [@DigitalThoreau](https://twitter.com/digitalthoreau), but I rarely post there as either any longer. I can also be found on Mastodon ([WhatTheDickens@mastodon.online](https://mastodon.online/@whatthedickens), [DigitalThoreau@hcommons.social](https://hcommons.social/@digitalthoreau)) but am still settling in there.
+
+## Who the course is for
+
+ It's for *you*. But, you say, "I'm not very good with computers." Right. That's *why* this course is for you! You don't need any special computer skills to succeed in this course. The course will teach you everything you need to know. Some of the things we'll do together in the course may feel intimidating at first. Don't be afraid! It's really not as complicated as it looks. Approach this course with a [growth mindset](https://www.psychologytoday.com/us/basics/growth-mindset), come to class, do the work (which isn't that hard&mdash;really!), *ask questions when you have them and seek help when you get stuck* (remember, *there is no such thing as a dumb question, and everyone gets stuck*), and by the end of the semester you probably won't feel "not very good with computers" any more. (Interested in the neuroscience behind growth mindset? See [this article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5836039/) on the website of the National Institutes of Health.) Of course, if you already feel confident with computers, this course is for *you*, too. If you follow the advice just offered, you're sure to learn all kinds of things you don't already know. 
 
 ## When we'll meet
 
