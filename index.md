@@ -175,11 +175,6 @@ The readings and activities for each module in the course are listed on the "Out
 - We'll discuss *Broad Band*.
 - We'll get ourselves accustomed to the terminal
 
-<!-- ### Product
-
-- tbd 
--->
-
 ### Wednesday, January 31
 
 ##### Before class
@@ -189,13 +184,7 @@ The readings and activities for each module in the course are listed on the "Out
 
 ##### In class
 
-- We'll fun at the command line.
-
-<!--
-##### Product
-
-- tbd 
--->
+- We'll have fun at the command line.
 
 ### Friday, February 2
 
