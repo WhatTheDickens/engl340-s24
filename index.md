@@ -21,9 +21,9 @@ Welcome to ENGL 340, Spring 2024, *Literature and Literary Study in the Digital 
 - [What we'll read](#what-well-read)
 - [Requirements and evaluation](#requirements-and-evaluation)
 - [Tools and accounts](#tools-and-accounts)
-- [Do you need accessibility services?](#do-you-need-accessibility-services)
 - [Take care of yourself](#take-care-of-yourself)
 - [Think about others](#think-about-others)
+- [Accessibility services](#accessibility-services)
 - [Additional resources](#additional-resources)
 - [Schedule at a glance](#schedule-at-a-glance)
 
@@ -119,10 +119,6 @@ In addition to a working laptop computer running an up-to-date version of macOS,
 - Visual Studio Code, BBEdit, or another plain-text editor with syntax-highlighting (explained in module)
 - Git Bash or WSL for Windows (Windows users only; explained in module)
 
-## Do you need accessibility services?
-
-SUNY Geneseo is dedicated to providing students equal and comprehensive access to college-wide programs, services, and campus facilities. The [Office of Accessibility Services](https://www.geneseo.edu/accessibility-office) (OAS) coordinates reasonable accommodations and auxiliary aids and services designed to ensure full participation and equal access for students with disabilities. It's the goal of the OAS to facilitate an accessible and inclusive campus environment. The office is located in Erwin 22. Phone: (585) 245-5112. Email: access-at-geneseo.edu.
-
 ## Take care of yourself
 
 It’s hard work being a student! You can improve your chances of success by eating well, getting enough sleep, and making wise choices. **If you need help, ask for it.** [Student Health and Counseling](https://www.geneseo.edu/health) can help you if you’re sick or need psychological or emotional support. A variety of [Campus Learning Centers](https://www.geneseo.edu/library/center-academic-excellence), including the [Writing Learning Center](https://www.geneseo.edu/english/leadership-and-hands-learning#writing-learning-center), offer academic support services. **And then there’s me.** [Schedule an appointment](https://schacht.youcanbook.me) to see me in my office or meet online for help with assignments, to tell me if you’re facing basic obstacles to success such as food insecurity, or to continue the conversation about readings and topics in the course. If reading or discussing certain kinds of content in this course might prove traumatic for you, let me know and we’ll work together to figure out a reasonable solution. You should be prepared for the fact that some works on the syllabus contain depictions of or allusions to violence and sexuality.
@@ -133,6 +129,10 @@ It’s hard work being a student! You can improve your chances of success by eat
 - Practice [forbearance](https://www.merriam-webster.com/dictionary/forbearance) when offended by others, even as you exercise your right to explain your reasons for taking offense
 - Consider how the world looks to someone who is not you
 - Do your best to address others as they prefer to be addressed
+
+## Accessibility services
+
+SUNY Geneseo is dedicated to providing students equal and comprehensive access to college-wide programs, services, and campus facilities. The [Office of Accessibility Services](https://www.geneseo.edu/accessibility-office) (OAS) coordinates reasonable accommodations and auxiliary aids and services designed to ensure full participation and equal access for students with disabilities. It's the goal of the OAS to facilitate an accessible and inclusive campus environment. The office is located in Erwin 22. Phone: (585) 245-5112. Email: access-at-geneseo.edu.
 
 ## Additional resources
 
