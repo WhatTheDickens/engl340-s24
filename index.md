@@ -21,7 +21,7 @@ Welcome to ENGL 340, Spring 2024, *Literature and Literary Study in the Digital 
 - [What we'll read](#what-well-read)
 - [Requirements and evaluation](#requirements-and-evaluation)
 - [Tools and accounts](#tools-and-accounts)
-- [Do you have a disability?](#do-you-have-a-disability)
+- [Do you need accessibility services?](#do-you-need-accessibility-services)
 - [Take care of yourself](#take-care-of-yourself)
 - [Think about others](#think-about-others)
 - [Additional resources](#additional-resources)
@@ -119,9 +119,9 @@ In addition to a working laptop computer running an up-to-date version of macOS,
 - Visual Studio Code, BBEdit, or another plain-text editor with syntax-highlighting (explained in module)
 - Git Bash or WSL for Windows (Windows users only; explained in module)
 
-## Do you have a disability?
+## Do you need accessibility services?
 
-SUNY Geneseo will make reasonable accommodations for persons with documented physical, emotional or learning disabilities. Accommodations will be made for medical conditions related to pregnancy or parenting. Requests for accommodations including letters or review of existing accommodations should be directed to the [Office of Accessibility Services](https://www.geneseo.edu/accessibility-office) in Erwin 22. If you have an accommodation letter, let me know as soon as possible in the semester so we can discuss specific arrangements.
+SUNY Geneseo is dedicated to providing students equal and comprehensive access to college-wide programs, services, and campus facilities. The [Office of Accessibility Services](https://www.geneseo.edu/accessibility-office) (OAS) coordinates reasonable accommodations and auxiliary aids and services designed to ensure full participation and equal access for students with disabilities. It's the goal of the OAS to facilitate an accessible and inclusive campus environment. The office is located in Erwin 22. Phone: (585) 245-5112. Email: access-at-geneseo.edu.
 
 ## Take care of yourself
 
