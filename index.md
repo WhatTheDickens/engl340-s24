@@ -151,7 +151,7 @@ The readings and activities for each module in the course are listed on the "Out
 ##### Before class
 
 - Read *Broad Band*, pp. 1-53
-- Read all the pages in this module and do your best to carry out the instructions. Take notes on anything you weren't able to accomplish.
+- Read all the pages in "Meet Your Computer" and do your best to carry out the instructions. Take notes on anything you weren't able to accomplish.
 
 ##### In class
 
@@ -172,7 +172,7 @@ The readings and activities for each module in the course are listed on the "Out
 ##### Before class
 
 - Read *Broad Band*, pp. 53-81.
-- Read [What is the Command Line?]({{ site.url }}/mod-2/what-is-the-command-line), [Types of Commands]({{ site.url }}/mod-2/types-of-commands), and [Getting Started]({{ site.url }}/mod-2/getting-started) in this module.
+- Read [What is the Command Line?]({{ site.url }}/mod-2/what-is-the-command-line), [Types of Commands]({{ site.url }}/mod-2/types-of-commands), and [Getting Started]({{ site.url }}/mod-2/getting-started) in "The Command Line".
 - If you're a Windows user, follow the instructions in [Types of Commands]({{ site.url }}/mod-2/types-of-commands) to install Git Bash. Take notes on any roadblocks you run into.
 
 ##### In class
@@ -201,7 +201,7 @@ The readings and activities for each module in the course are listed on the "Out
 
 ##### Before class
 
-- Read through the pages of this module. *Be sure to install Visual Studio Code* according to the instructions linked in [Text Editors]({{ site.url }}/text-editors).
+- Read through the pages of "What is Text?". *Be sure to install Visual Studio Code* according to the instructions linked in [Text Editors]({{ site.url }}/text-editors).
 - You may want to hold off on carrying out the instructions in [Keep a Daily Journal in Markdown]({{ site.url }}/keep-a-daily-journal) until we meet in class.
 
 ##### In class
@@ -230,7 +230,7 @@ The readings and activities for each module in the course are listed on the "Out
 
 ##### Before class
 
-- Read [What is Scholarly Editing?]({{ site.url }}/mod-4/what-is-scholarly-editing), [Types of Scholarly Editing]({{ site.url }}/mod-4/types-of-scholarly-editing), and [Computers and Scholarly Editing]({{ site.url }}/mod-4/computers-and-scholarly-editing) in this module.
+- Read [What is Scholarly Editing?]({{ site.url }}/mod-4/what-is-scholarly-editing), [Types of Scholarly Editing]({{ site.url }}/mod-4/types-of-scholarly-editing), and [Computers and Scholarly Editing]({{ site.url }}/mod-4/computers-and-scholarly-editing) in "Digital Scholarly Editing."
 - Read *The Book*, 1-110
 
 ##### In class
@@ -259,7 +259,7 @@ The readings and activities for each module in the course are listed on the "Out
 ##### Before class
 
 - Read *Walden*, "Economy," paragraphs 71 to end.
-- Read [From Metareading to Markup]({{ site.url }}/mod-4/from-metareading-to-markup) and [Markup and Manuscripts]({{ site.url }}/mod-4/markup-and-manuscripts) in this module.
+- Read [From Metareading to Markup]({{ site.url }}/mod-4/from-metareading-to-markup) and [Markup and Manuscripts]({{ site.url }}/mod-4/markup-and-manuscripts) in "Digital Scholarly Editing".
 
 ##### In class
 
@@ -270,7 +270,7 @@ The readings and activities for each module in the course are listed on the "Out
 ##### Before class
 
 - Read *Walden*, "Where I Lived, and What I Lived For."
-- Read the pages in this module.
+- Read the pages in "Meet the *Walden* manuscript."
 
 ##### In class
 
@@ -287,7 +287,7 @@ The readings and activities for each module in the course are listed on the "Out
 ##### Before class
 
 - Read *Walden*, "Reading," "Sounds," "Solitude"
-- Read the pages in this module.
+- Read the pages in "Text Encoding."
 
 ##### In class
 
@@ -313,7 +313,7 @@ The readings and activities for each module in the course are listed on the "Out
 
 ##### Before class
 
-- Read [The Internet is Not the Web]({{ site.url}}/mod-7/the-internet-is-not-the-web), [What is the Web?]({{ site.url}}/mod-7/what-is-the-web), and [HTTP and URL]({{ site.url}}/mod-7/http-and-url) in this module.
+- Read [The Internet is Not the Web]({{ site.url}}/mod-7/the-internet-is-not-the-web), [What is the Web?]({{ site.url}}/mod-7/what-is-the-web), and [HTTP and URL]({{ site.url}}/mod-7/http-and-url) in "Internet and Web."
 - Read *Broad Band*, 81-130.
 
 ##### In class
@@ -324,12 +324,12 @@ The readings and activities for each module in the course are listed on the "Out
 
 ##### Before class
 
-- Read [HTML Basics]({{ site.url}}/mod-7/html-basics), [CSS Basics]({{ site.url}}/mod-7/css-basics), and [CSS Syntax]({{ site.url}}/mod-7/css-syntax) in this module.
+- Read [HTML Basics]({{ site.url}}/mod-7/html-basics), [CSS Basics]({{ site.url}}/mod-7/css-basics), and [CSS Syntax]({{ site.url}}/mod-7/css-syntax) in "Internet and Web."
 - Read *Broad Band*, 153-174
 
 ##### In class
 
-- We'll discuss *Broad Band* and play with HTML and CSS
+- We'll discuss *Broad Band* and play with HTML and CSS.
 
 ### Friday, March 8
 
@@ -345,11 +345,11 @@ The readings and activities for each module in the course are listed on the "Out
 
 ##### Before class
 
-- Read the rest of the pages in this module.
+- Read the rest of the pages in "Internet and Web."
 
 ##### In class
 
-- We'll discuss design justice and review what we've learned about HTML and CSS
+- We'll discuss design justice and review what we've learned about HTML and CSS.
 
 ### Wednesday, March 20
 
@@ -382,7 +382,7 @@ The readings and activities for each module in the course are listed on the "Out
 ##### Before class
 
 - Read *Walden*, "Brute Neighbors," "House-Warming," and "Former Inhabitants; and Winter Visitors"
-- Review [Attributes, Links, Images]({{ site.url }}/mod-7/attributes-links-images) in the previous module.
+- Review [Attributes, Links, Images]({{ site.url }}/mod-7/attributes-links-images) in "Internet and Web."
 
 ##### In class
 
@@ -399,7 +399,7 @@ The readings and activities for each module in the course are listed on the "Out
 ##### Before class
 
 - Read *Walden*, "Winter Animals," "The Pond in Winter," "Spring."
-- Read [IIIF images]({{ site.url }}/mod-8/iiif-images) in this module.
+- Read [IIIF images]({{ site.url }}/mod-8/iiif-images) in "Working with Web Images."
 
 ##### In class
 
