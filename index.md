@@ -59,7 +59,7 @@ Finally, everyone will need to have a working computer running the software requ
 
 ### Individual learning outcomes
 
-What will you know and be able to do as a result of taking this course? First, because this is a 300-level English course, you’ll improve your
+What will you know and be able to do as a result of taking this course? First, [because this is a 300-level English course](https://www.geneseo.edu/english/programs-english#LearningOutcomesinEnglishLiterature), you’ll improve your
 
 - ability to read texts in relation to history
 - understanding of how texts are related to social and cultural categories (e.g., race, ethnicity, gender, sexuality, class, ability), enterprises (e.g. philosophy, science, politics), and institutions (e.g., of religion, of education)
