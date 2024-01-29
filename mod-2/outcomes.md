@@ -42,7 +42,7 @@ At the completion of this module you should
 
 ### In class
 
-- We'll fun at the command line.
+- We'll have fun at the command line.
 
 <!-- ### Product
 
