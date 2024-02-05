@@ -53,6 +53,8 @@ At the completion of this module you should
 
 ## Monday, April 22
 
+- Group project work in class.
+
 ***Class work:*** *In your folder for 4-22, share your journal file for the day with notes on the progress of your group project.*
 
 ## Wednesday, April 24
