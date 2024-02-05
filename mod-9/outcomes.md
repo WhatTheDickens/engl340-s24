@@ -23,23 +23,33 @@ At the completion of this module you should
 
 - Group project work in class
 
+***Class work:*** *In your folder for 4-10, share your journal file for the day with notes on the progress of your group project.*
+
 ## Friday, April 12
 
 - Group project work in class
+
+***Class work:*** *In your folder for 4-12, share your journal file for the day with notes on the progress of your group project.*
 
 ## Monday, April 15
 
 - Group project work in class
 
+***Class work:*** *In your folder for 4-15, share your journal file for the day with notes on the progress of your group project.*
+
 ## Wednesday, April 17
 
 - Group project work in class
+
+***Class work:*** *In your folder for 4-17, share your journal file for the day with notes on the progress of your group project.*
 
 ## Friday, April 19
 
 - No class meeting: SUNY Digital Learning Conference.
 
 ## Monday, April 22
+
+***Class work:*** *In your folder for 4-22, share your journal file for the day with notes on the progress of your group project.*
 
 ## Wednesday, April 24
 
@@ -49,15 +59,23 @@ At the completion of this module you should
 
 - Group project work in class.
 
+***Class work:*** *In your folder for 4-26, share your journal file for the day with notes on the progress of your group project.*
+
 ## Monday, April 29
 
 - Group project work in class.
+
+***Class work:*** *In your folder for 4-29, share your journal file for the day with notes on the progress of your group project.*
 
 ## Wednesday, May 1
 
 - Group project work in class.
 
+***Class work:*** *In your folder for 5-1, share your journal file for the day with notes on the progress of your group project.*
+
 ## Friday, May 3
 
 - Group project work in class.
+
+***Class work:*** *In your folder for 5-3, share your journal file for the day with notes on the progress of your group project.*
 

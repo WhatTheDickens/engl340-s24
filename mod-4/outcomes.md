@@ -26,6 +26,8 @@ At the completion of this module you should
 - We'll discuss books and editing.
 - We'll prepare for Douglass Day.
 
+***Class work:*** *In the folder for 2-12, share a journal file for the day (.md extension) containing some notes about the reading in* The Book. *These can be personal reflections or notes on discussion in your group.*
+
 ## Wednesday, February 14
 
 ### Before class
@@ -36,9 +38,13 @@ At the completion of this module you should
 
 - We'll meet in the College Union Ballroom to participate in Douglass Day.
 
+***Class work:*** *In the folder for 2-14, share the letter from the Library of Congress that details your contributions for the day, along with your journal file for the day containing some notes on your experience working with the Douglass correspondence.*
+
 ## Friday, February 16
 
 - Group 4 meeting.
+
+***Class work:*** *In the folder for 2-16, share your journal file for the day with notes about anything you've learned today; it can be something you learned in this class or another one or in some context unrelated to your classes.*
 
 ## Monday, February 19
 
@@ -50,3 +56,5 @@ At the completion of this module you should
 ### In class
 
 - We'll discuss Thoreau, metareading, and markup languages.
+
+***Class work:*** *In the folder for 2-19, share your journal file with notes about metareading and markup languages. In addition, leave a comment on a paragraph or some part of a paragraph in "Economy" that makes you want to know more about Thoreau's thinking ("Why does he say that?") or Thoreau's writing ("Why does he put it that way?")*

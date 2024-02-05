@@ -31,6 +31,8 @@ At the completion of this module you should
 - We'll work on creating a journal script and making sure everyone has a journal workflow.
 - We'll discuss the importance of interoperability as a principle in computing.
 
+***Class work:*** *In the folder for 2-5, share a plain text file with the .md extension in the file name containing notes on today's work in class.*
+
 ## Wednesday, February 7
 
 ### Before class
@@ -41,6 +43,10 @@ At the completion of this module you should
 
 - We'll discuss *Walden* and discuss connections between Thoreau's book and our work with computers.
 
+***Class work:*** *In the folder for 2-7, share your journal script in a file ending with the .sh extension and a journal file for the day, with the .md extension, containing notes.*
+
 ## Friday, February 9
 
 - Group 3 meeting.
+
+***Class work:*** *In the folder for 2-9, share a journal file for the day with notes on your developing command-line skills. In addition, choose a sentence anywhere in paragraphs 1-70 of "Economy" in* Walden *that you find interesting&mdash;either for what it says or how it's written. Select that sentence with your mouse and add a comment about it in the margin.* 

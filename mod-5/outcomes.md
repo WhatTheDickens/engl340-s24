@@ -24,6 +24,10 @@ At the completion of this module you should
 
 - Visit with Beth Witherell, Editor-in-Chief of *The Collected Writings of Henry D. Thoreau*.
 
+***Class work:*** *In the folder for 2-21, share your journal file for the day with notes on our visit from Dr. Witherell. In addition, leave a comment on a paragraph or part of a paragraph in "Where I Lived" responding to anything Thoreau has to say about* time *or* place. 
+
 ## Friday, February 23
 
 - Group 5 meeting.
+
+***Class work:*** *In the folder for 2-23, share your journal file for the day with notes on anything you did or learned this week that has a connection with anything you did or learned in another class.*

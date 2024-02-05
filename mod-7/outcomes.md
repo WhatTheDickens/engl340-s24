@@ -28,6 +28,8 @@ At the completion of this module you should
 
 - We'll discuss *Broad Band* and 🏄 the web.
 
+***Class work:*** *In your folder for 3-4, share your journal file for the day with notes about how the internet and web evolved. What did you already know about this evolution? What did you learn for the first time?*
+
 ## Wednesday, March 6
 
 ### Before class
@@ -39,9 +41,13 @@ At the completion of this module you should
 
 - We'll discuss *Broad Band* and play with HTML and CSS
 
+***Class work:*** *In your folder for 3-6, share your journal file for the day with notes on HTML and CSS.*
+
 ## Friday, March 8
 
 - Group 2 meeting
+
+***Class work:*** *In your folder for 3-8, share your journal file for the day with notes on HTMl and CSS.*
 
 ---
 
@@ -57,7 +63,9 @@ At the completion of this module you should
 
 ### In class
 
-- We'll discuss design justice and review what we've learned about HTML and CSS
+- We'll discuss design justice and review what we've learned about HTML and CSS.
+
+***Class work:*** *In your folder for 3-18, share your journal file for the day with notes about well-designed and poorly designed websites you've looked at. Which of the poorly designed websites, if any, raised issues of design justice?*
 
 ## Wednesday, March 20
 
@@ -69,6 +77,10 @@ At the completion of this module you should
 
 - We'll discuss *The Book* and catch up as needed.
 
+***Class work:*** *In your folder for 3-20, share your journal file for the day with reflections on how reading* The Book *has changed how you look at books.*
+
 ## Friday, March 22
 
 - Group 3 meeting.
+
+***Class work:*** *In your folder for 3-22, share your journal file for the day with notes and reflections on anything you like.*
