@@ -24,7 +24,7 @@ At the completion of this module you should
 ### In class
 
 - We'll discuss books and editing.
-- We'll prepare for Douglass Day.
+- We'll prepare for [Douglass Day](https://cdl-geneseo.github.io/douglass-day/).
 
 ***Class work:*** *In the folder for 2-12, share a journal file for the day (.md extension) containing some notes about the reading in* The Book. *These can be personal reflections or notes on discussion in your group.*
 
@@ -32,7 +32,7 @@ At the completion of this module you should
 
 ### Before class
 
-- Create an account at the Library of Congress.
+- Register an account with the Library of Congress' [By the People](project).
 
 ### In class
 
@@ -57,4 +57,6 @@ At the completion of this module you should
 
 - We'll discuss Thoreau, metareading, and markup languages.
 
-***Class work:*** *In the folder for 2-19, share your journal file with notes about metareading and markup languages. In addition, leave a comment on a paragraph or some part of a paragraph in "Economy" that makes you want to know more about Thoreau's thinking ("Why does he say that?") or Thoreau's writing ("Why does he put it that way?")*
+***Class work:*** *In the folder for 2-19, share your journal file with notes and reflections about metareading and markup languages. In addition, leave a comment on a paragraph or some part of a paragraph in "Economy" that makes you want to know more about Thoreau's thinking ("Why does he say that?") or Thoreau's writing ("Why does he put it that way?")*
+
+***Due:*** *First blog post.*

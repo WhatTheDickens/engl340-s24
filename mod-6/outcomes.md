@@ -36,7 +36,7 @@ At the completion of this module you should
 
 - We'll discuss *Walden* and continue exploring TEI.
 
-***Class work:*** *In your folder for 2-28, share your journal file for the day with note about TEI. In addition, leave a comment on a passage in* Walden *from one of the chapters assigned for today.*
+***Class work:*** *In your folder for 2-28, share your journal file for the day with notes about TEI. In addition, leave a comment in the margin of a passage from* Walden *that's in one of the chapters assigned for today.*
 
 ## Friday, March 1
 

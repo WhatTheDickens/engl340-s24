@@ -37,7 +37,7 @@ At the completion of this module you should
 
 ### Before class
 
-- Read *Walden*, "Economy" paragraphs 1-70.
+- Read *Walden*, "Economy," paragraphs 1-70.
 
 ### In class
 

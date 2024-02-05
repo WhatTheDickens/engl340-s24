@@ -47,12 +47,12 @@ Finally, everyone will need to have a working computer running the software requ
 
 ## When we'll meet
 
-- Mondays and Wednesdays, 12:30 pm - 1:45 pm; Fridays, 1:30 pm - 1:20 pm
-- Final meeting (attendance mandatory) Monday, May 6, 12 pm - 3:20 pm
+- Mondays and Wednesdays, 12:30 pm &ndash; 1:45 pm; Fridays, 1:30 pm &ndash; 1:20 pm
+- Final meeting (attendance mandatory) Tuesday, May 14, 12 pm &ndash; 3:20 pm
 
 ## How and when to find me
 
-- Wednesday, 2:30 pm - 4:00 pm in South 347
+- Wednesday, 2:30 pm &ndash; 4:00 pm in South 347
 - Any free time that works for you at [https://schacht.youcanbook.me](https://schacht.youcanbook.me)
 
 ## Learning outcomes

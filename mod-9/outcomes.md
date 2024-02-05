@@ -19,6 +19,8 @@ At the completion of this module you should
 
 - No class meeting: 🌘
 
+***No class work due.***
+
 ## Wednesday, April 10
 
 - Group project work in class
@@ -47,6 +49,8 @@ At the completion of this module you should
 
 - No class meeting: SUNY Digital Learning Conference.
 
+***No class work due.***
+
 ## Monday, April 22
 
 ***Class work:*** *In your folder for 4-22, share your journal file for the day with notes on the progress of your group project.*
@@ -55,11 +59,15 @@ At the completion of this module you should
 
 - No class meeting: GREAT Day.
 
+***No class work due.***
+
 ## Friday, April 26
 
 - Group project work in class.
 
 ***Class work:*** *In your folder for 4-26, share your journal file for the day with notes on the progress of your group project.*
+
+***Due:*** *Second blog post.*
 
 ## Monday, April 29
 
@@ -79,3 +87,8 @@ At the completion of this module you should
 
 ***Class work:*** *In your folder for 5-3, share your journal file for the day with notes on the progress of your group project.*
 
+## Monday, May 6
+
+- Group project work in class.
+
+***Class work:*** *In your folder for 5-6, share your journal file for the day with notes on the progress of your group project.*

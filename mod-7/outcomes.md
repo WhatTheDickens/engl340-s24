@@ -28,18 +28,18 @@ At the completion of this module you should
 
 - We'll discuss *Broad Band* and 🏄 the web.
 
-***Class work:*** *In your folder for 3-4, share your journal file for the day with notes about how the internet and web evolved. What did you already know about this evolution? What did you learn for the first time?*
+***Class work:*** *In your folder for 3-4, share your journal file for the day with notes about how the internet and web evolved. What did you already know about this evolution? What did you learn for the first time? Was there anything you thought you knew that turned out to be wrong? Did you have to modify any knowledge or beliefs in light of what you learned?*
 
 ## Wednesday, March 6
 
 ### Before class
 
 - Read [HTML Basics]({{ site.url}}/mod-7/html-basics), [CSS Basics]({{ site.url}}/mod-7/css-basics), and [CSS Syntax]({{ site.url}}/mod-7/css-syntax) in this module.
-- Read *Broad Band*, 153-174
+- Read *Broad Band*, 153-174.
 
 ### In class
 
-- We'll discuss *Broad Band* and play with HTML and CSS
+- We'll discuss *Broad Band* and play with HTML and CSS.
 
 ***Class work:*** *In your folder for 3-6, share your journal file for the day with notes on HTML and CSS.*
 
@@ -65,7 +65,7 @@ At the completion of this module you should
 
 - We'll discuss design justice and review what we've learned about HTML and CSS.
 
-***Class work:*** *In your folder for 3-18, share your journal file for the day with notes about well-designed and poorly designed websites you've looked at. Which of the poorly designed websites, if any, raised issues of design justice?*
+***Class work:*** *In your folder for 3-18, share your journal file for the day with notes about well-designed and poorly designed websites you've looked at. Include links to the sites properly formatted in Markdown. Which of the poorly designed websites, if any, raised issues of design justice?*
 
 ## Wednesday, March 20
 
