@@ -22,8 +22,8 @@ At the completion of this module you should
 
 ### Before class
 
-- Read through the pages of this module. *Be sure to install Visual Studio Code* according to the instructions linked in [Text Editors]({{ site.url }}/text-editors).
-- You may want to hold off on carrying out the instructions in [Keep a Daily Journal in Markdown]({{ site.url }}/keep-a-daily-journal) until we meet in class.
+- Read through the pages of this module. *Be sure to install Visual Studio Code* according to the instructions linked in [Text Editors]({{ site.url }}/mod-3/text-editors).
+- You may want to hold off on carrying out the instructions in [Keep a Daily Journal in Markdown]({{ site.url }}/mod-3/keep-a-daily-journal) until we meet in class.
 
 ### In class
 
