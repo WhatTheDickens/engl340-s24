@@ -32,7 +32,7 @@ At the completion of this module you should
 
 ### Before class
 
-- Register an account with the Library of Congress' [By the People](project).
+- Register an account with the Library of Congress' [By the People](https://crowd.loc.gov/) project.
 
 ### In class
 
