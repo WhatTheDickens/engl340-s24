@@ -59,4 +59,4 @@ At the completion of this module you should
 
 ***Class work:*** *In the folder for 2-19, share your journal file with notes and reflections about metareading and markup languages. In addition, leave a comment on a paragraph or some part of a paragraph in "Economy" that makes you want to know more about Thoreau's thinking ("Why does he say that?") or Thoreau's writing ("Why does he put it that way?")*
 
-***Due:*** *First blog post.*
+<s>***Due:*** *First blog post.*</s>

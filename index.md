@@ -105,7 +105,7 @@ How will you know if you’ve met the individual outcomes? How will we know if w
 
 Your final grade in this course will be based on the number of points you earn out of a maximum of 100 points. You’ll earn points for the activities listed below. You must complete all assigned work to pass the course.
 
-- **Blog**: You'll earn up to **30** points for two blog posts (15 points each) in which you reflect on your learning in this course. (Due 2/19 and 4/26.) 
+- **Blog**: You'll earn up to **30** points for two blog posts (15 points each) in which you reflect on your learning in this course. (Due <s>2/19</s> 3/1 and 4/26.) 
 - **Class work**: You'll earn up to **40** points for in-class work submitted *by the end of each class meeting.* (Typically, 1 point per timely submission.)
 - **Project work**: You'll earn up to **30** points for a group project to which you contribute, with **10** of those points coming from your personal contribution to the project and a final blog post you'll write about your work on it.
 
@@ -265,7 +265,7 @@ The SUNY Geneseo Office of the Provost has compiled a [very helpful one-page cat
 
 ***Class work:*** *In the folder for 2-19, share your journal file with notes and reflections about metareading and markup languages. In addition, leave a comment on a paragraph or some part of a paragraph in "Economy" that makes you want to know more about Thoreau's thinking ("Why does he say that?") or Thoreau's writing ("Why does he put it that way?")*
 
-***Due:*** *First blog post.*
+<s>***Due:*** *First blog post.*</s>
 
 ### Wednesday, February 21
 
@@ -314,6 +314,7 @@ The SUNY Geneseo Office of the Provost has compiled a [very helpful one-page cat
 ### Friday, March 1
 
 - Group 1 meeting.
+- ***Due:*** *First blog post.*
 
 ### Monday, March 4
 
