@@ -7,6 +7,8 @@ nav_order: 1
 
 # First Blog Assignment
 
+## Due: March 1
+
 ## What you'll do for this assignment
 
 Write a few paragraphs in which you reflect on your learning in the course so far. There isn't one right way to do this, but there are a couple of things you definitely should *not* do.
