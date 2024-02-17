@@ -1,7 +1,7 @@
 ---
 title: Rights and Acknowledgments
 layout: default
-nav_order: 12
+nav_order: 13
 ---
 
 # Rights and Acknowledgments
