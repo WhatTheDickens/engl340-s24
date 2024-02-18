@@ -43,6 +43,7 @@ Here are some questions to prompt your thinking. *Don't construct your post by a
 1. Draft your blog post in one of your journal files using Markdown. Use the preview pane in VS Code to make sure everything looks right.
 2. Register an account on the [English @ SUNY Geneseo](https://sunygeneseoenglish.org) website (if you don't already have one from another course) and join the group [Digital Humanities](https://sunygeneseoenglish.org/groups/digital-humanities/). (Be sure to follow the instructions for [two-factor authentication](https://sunygeneseoenglish.org/two-factor-authentication/).  **Note:** You won't be able to set up 2FA until you've joined [Digital Humanities](https://sunygeneseoenglish.org/groups/digital-humanities/).)
 3. When you're happy with what you've written, log into the site, go to the group's blog, [Digital Humanities at Geneseo](https://dh.sunygeneseoenglish.org/), click `+New` in the black ribbon at the top of the site, select `Post`, and paste your post content from VS Code into the editor there. The editor understands Markdown! Use the `Preview` button in the post editor to see how your post will look when published.
+4. When you're ready to submit your post, click `Submit for Review`.
 
 {: .important}
 Put your post title in the title field in the post editor. *Don't repeat your title in the body of your post*. Don't put your name in the post body, either. It will appear automatically once your post is published. 
