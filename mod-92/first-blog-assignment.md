@@ -9,6 +9,10 @@ nav_order: 1
 
 ## Due: March 1
 
+- [What you'll do for this assignment](#what-youll-do-for-this-assignment)
+- [How you'll do it](#how-youll-do-it)
+- [How your post will be evaluated](#how-your-post-will-be-evaluated)
+
 ## What you'll do for this assignment
 
 Write a few paragraphs in which you reflect on your learning in the course so far. There isn't one right way to do this, but there are a couple of things you definitely should *not* do.
@@ -42,3 +46,19 @@ Here are some questions to prompt your thinking. *Don't construct your post by a
 
 {: .important}
 Put your post title in the title field in the post editor. *Don't repeat your title in the body of your post*. Don't put your name in the post body, either. It will appear automatically once your post is published. 
+
+## How your post will be evaluated
+
+You can earn up to 15 points for this assignment. In evaluating your post, I'll be asking myself the questions below. It's a good idea to ask yourself how *you* would answer these questions before submitting your post. I'll send you my answers to these questions together with a brief comment and the number of points you earned.
+
+In your blog post, did you &hellip;
+
+|   | Not really | A little bit | Somewhat | Pretty much | Yes! |
+| - | ---------- | ------------ | -------- | ----------- | ---- |
+| give concrete examples of skills or knowledge you've obtained in the course so far? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| explain why the skills or knowledge are important to you? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| address yourself to one or more of the assignment questions meant to prompt your thinking? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| write authentically, in your own voice, using your own words, about your learning? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| write about how the *course* has changed *you* (if it has), avoiding any direct mention of *me*, the instructor? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| use care in the composition of your post? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| format your post appropriately using Markdown? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
