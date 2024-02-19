@@ -15,21 +15,20 @@ nav_order: 1
 
 ## What you'll do for this assignment
 
-Write a few paragraphs in which you reflect on your learning in the course so far. There isn't one right way to do this, but there are a couple of things you definitely should *not* do.
+Write a few paragraphs (about 500 words, but don't get hung up on numbers) in which you reflect on your learning in the course so far. There isn't one right way to do this, but however you do it, make sure that you
+
+1. Look inside yourself. Ask yourself how you've changed or grown.
+2. Be concrete. Give specific examples of new knowledge or skills and why they matter to you.
+3. *Use your own words*. As we discussed the first week of class, generative AI definitely has its uses. Writing this post isn't one of them. You won't be evaluated based on things like subject-verb agreement or comma splices. Hopefully that takes some pressure off. You'll be evaluated on whether you've followed these instructions and made a genuine effort to be reflective.
+4. Show *care* in your writing. Care is different from grammatical correctness or correct punctuation. Careful writing reads like time and thought went into it, not like it was tossed together in a hurry. Careful writing doesn't feel generic. It carries the mark of the writer's individuality. Sometimes that means it flows less smoothly than writing produced by an algorithm. Individuals have bumps and warts. They take risks. Bumps, warts, and risk-taking make writing enjoyable and interesting to read, because they convey the humanity of the writer.
+5. Remember that your post will appear on a public-facing blog, where anyone in the world who finds it can read it.
+
+There are a couple of things you should be sure *not* to do:
 
 1. Don't mention me by name. This post is about you, not me. Focus on what *you've* learned from the *course* or how the *course* has changed *you* so far, not on anything *I've* done or said or taught. 
 2. Don't write things you think *I* want to read. Write what's real. Write honestly. Your post will *not* be evaluated based on whether you've said the "right" thing.
 
-And here a few things you definitely *should* do:
-
-1. Look inside. Ask yourself how you've changed or grown.
-2. Be concrete. Give specific examples of new knowledge or skills and why they matter to you.
-3. *Use your own words*. As we discussed the first week of class, generative AI definitely has its uses. Writing this post isn't one of them. You won't be evaluated based on things like subject-verb agreement or comma splices. Hopefully that takes some pressure off. You'll be evaluated on whether you've followed these instructions and made a genuine effort to be reflective.
-4. Show *care* in your writing. Care is different from grammatical correctness or correct punctuation. Careful writing reads like time and thought went into it, not like it was tossed together in a hurry. 
-
-There is no correct length for this piece of writing. Five-hundred words is a decent target, but don't get hung up on numbers.
-
-Here are some questions to prompt your thinking. *Don't construct your post by answering these questions one at a time!* They're meant to help you reflect, not to organize your post. You don't have to answer all of them. Maybe one or two will suggest a theme for you to explore about your learning so far. If so, you can focus on that theme and not worry about questions that aren't related to it.
+Below are some questions to prompt your thinking. *Don't construct your post by answering these questions one at a time!* They're meant to help you reflect, not to organize your post. You don't have to answer all of them. Maybe one or two will suggest a theme for you to explore about your learning so far. If so, you can focus on that theme and not worry about questions that aren't related to it.
 
 - What are a few *important* things you know now that you didn't know before the course began? (Important to *you*, that is. And why *are* they important to you?) You don't have to limit yourself to things we've done or discussed in class. Maybe the most important things you've learned have been in the books assigned or the course website.
 - What are some connections between computers and the humanities that you see now but hadn't seen, or hadn't given much thought to, before?
