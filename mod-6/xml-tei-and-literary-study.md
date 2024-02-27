@@ -76,12 +76,12 @@ Here’s what a basic TEI file looks like. The bits in the code below that look 
     </TEI>
 ```
 
-You can [find a copy of this file in our "files" folder](https://github.com/WhatTheDickens/lit-dig-age/blob/master/files/basic_tei_file.xml). It's named `basic_tei_file.xml`. To download it to your own computer, find the <kbd>Raw</kbd> button at the top right of the file window, right-click on it, and choose "Save Link As" from the dropdown menu. Open the saved file in VS Code.
+You can [find a copy of this file online](https://github.com/WhatTheDickens/engl340-s24/blob/main/downloads/basic_tei_file.xml). It's named `basic_tei_file.xml`. To download it to your own computer, find the <kbd>Raw</kbd> button at the top right of the file window, right-click on it, and choose "Save Link As" from the dropdown menu. Open the saved file in VS Code.
 
 Alternatively, you can navigate on the command line to where you'd like to save the file, then enter
 
 ```console
-    curl https://raw.githubusercontent.com/WhatTheDickens/lit-dig-age/master/files/basic_tei_file.xml > basic_tei_file.xml
+    curl https://raw.githubusercontent.com/WhatTheDickens/engl340-s24/main/downloads/basic_tei_file.xml > basic_tei_file.xml
 ```
 
 then open the file with
@@ -125,6 +125,6 @@ Within the opening `<rdg>` tag, you’ll find the attribute `wit`, whose value (
 
 After you’ve looked over these examples, look at the following files to see how they use the same set of TEI elements.
 
--   [Any file encoding a chapter of the fluid-text *Walden*](https://github.com/milnegeneseo/fluid_text/tree/master/tei)
--   [The file encoding the variants of the Gettysburg Address](https://www.geneseo.edu/~schacht/fluid_gettysburg/samples/gettysburg.xml) that you read in the previous module using [The Versioning Machine](https://www.geneseo.edu/~schacht/fluid_gettysburg/samples/gettysburg.html)
--   [The file encoding the variants of Emily Dickinson’s “Faith is a Fine Invention”](http://v-machine.org/samples/faith.xml) that you read in the previous module using [The Versioning Machine](http://v-machine.org/samples/faith.html)
+- [Any file encoding a chapter of the fluid-text *Walden*](https://github.com/milnegeneseo/fluid_text/tree/master/tei).
+- The file created by students in ENGL 340 in Spring 2015 [encoding the variants of the Gettysburg Address](https://github.com/WhatTheDickens/engl340-s24/blob/main/downloads/gettysburg.xml). The same software that reads TEI to produce the fluid-text edition of *Walden*, called The Versioning Machine, can be used to read the students' TEI file and produce [this display of the differences between the Gettysburg Address variants](https://www.geneseo.edu/~schacht/fluid_gettysburg/samples/gettysburg.html).
+- The file [encoding the variants of Emily Dickinson’s poem “Faith is a Fine Invention”](https://github.com/WhatTheDickens/engl340-s24/blob/main/downloads/faith.xml) that's used to produce [this display of the variants on the website of The Versioning Machine](http://v-machine.org/samples/faith.html).

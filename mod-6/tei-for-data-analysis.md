@@ -30,5 +30,3 @@ Now head over to the page [“Written and Re-Written in *Walden*”](https://dig
 You can use the column headings in the table to sort the information about paragraph revision-histories by clicking on the column headers. For example, clicking on the “Written” heading will organize the information by version, so you can see at a glance all the paragraphs or paragraph segments first written in version A.
 
 Once we’ve extracted the revision-history data from the TEI files, we can also visualize it in other ways. Taking that same data and putting it in a spreadsheet yields the perspective offered in numbers and two different charts on the page [“The Growth of *Walden*”](https://digitalthoreau.org/the-growth-of-walden/).
-
-Go to the “next page” to offer some thoughts on what these visualizations reveal about the evolution of *Walden*.
