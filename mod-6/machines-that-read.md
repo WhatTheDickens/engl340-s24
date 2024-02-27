@@ -26,5 +26,3 @@ Download this file to your computer. You can do this by right-clicking the <kbd>
 Now go to where you saved the file — whatever method you chose — and open it in VS Code. Next, open it in a browser such as Firefox, Chrome, Safari, or Edge. You won’t see the panels or the pop-ups or any of the features included in the fluid-text edition. All you’ll see is the same XML/TEI code.
 
 Scroll through the code — on GitHub, in VS Code, or in your browser window - until you get to the first paragraph of “Solitude.”
-
-Now take a moment to complete an assignment in which you try to identify what some of the different TEI tags are saying about the paragraph.
