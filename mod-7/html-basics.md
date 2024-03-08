@@ -63,7 +63,7 @@ You may be able to open the file in your system's default browser by simply doub
 
 The result will look pretty bare bones: The sentence, "This is an HTML document with one-sentence" looking rather lonely in the upper left of your browser window, probably in the Times font, on a white background.
 
-Notice that the address in your browser's location bar doesn't begin with `http://`  or or `https://` but with `file://`, and that the rest of the address is simply the path to the file on your machine. We saw the same thing before when ...
+Notice that the address in your browser's location bar doesn't begin with `http://`  or or `https://` but with `file://`, and that the rest of the address is simply the path to the file on your machine. We saw the same thing before when [you navigated your local file system through the browser]({{ site.url }}/mod-1/file-system#navigating-your-file-system-through-your-browser).
 
 Notice that this bit of your file is nowhere to be seen:
 
