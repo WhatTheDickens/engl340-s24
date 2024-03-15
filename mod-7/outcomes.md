@@ -47,7 +47,7 @@ At the completion of this module you should
 
 - Group 2 meeting
 
-***Class work:*** *In your folder for 3-8, share your journal file for the day with notes on HTMl and CSS.*
+***Class work:*** *In your folder for 3-8, share your journal file for the day with notes on HTML and CSS.*
 
 ---
 

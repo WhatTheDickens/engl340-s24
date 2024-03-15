@@ -346,7 +346,7 @@ The SUNY Geneseo Office of the Provost has compiled a [very helpful one-page cat
 
 - Group 2 meeting
 
-***Class work:*** *In your folder for 3-8, share your journal file for the day with notes on HTMl and CSS.*
+***Class work:*** *In your folder for 3-8, share your journal file for the day with notes on HTML and CSS.*
 
 ---
 
