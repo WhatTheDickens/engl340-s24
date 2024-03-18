@@ -20,7 +20,7 @@ Together, your group will carry out four tasks with respect to your selected pas
 
 ## TEI template file
 
-- Download the template file for your TEI transcription from GitHub and rename it appropriately.
+- [Download the template file](https://github.com/WhatTheDickens/engl340-s24/blob/main/assets/tei-template.xml) for your TEI transcription from GitHub and rename it appropriately.
 
 <!--
 
