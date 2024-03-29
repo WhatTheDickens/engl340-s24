@@ -27,7 +27,7 @@ Examples abound in *Walden*. Together, we've looked at some that appear in [The 
 
 ## What you'll do for this assignment
 
-Get out into nature. Get away from buildings and cars. (A great place to do this would be [Roemer Arboretum](https://www.geneseo.edu/arboretum), but the choice of location is up to you.) Pick something to observe: plants, flowers, insects, other animals: again, the choice is yours. Take lots of notes on what you see. Then write up your observations in a blog post of about 300-500 words.
+Get out into nature. Get away from buildings and cars. (A great place to do this would be [Roemer Arboretum](https://www.geneseo.edu/arboretum), but the choice of location is up to you.) Pick something to observe: plants, flowers, insects, other animals: again, the choice is yours. Take lots of notes on what you see. Then write up your observations in a blog post of about 500 words. Include a photograph of what you've observed. (Alternatively, you can embed an audio or video file uploaded to YouTube.)
 
 While you shouldn't try to be Thoreau (because, after all, he's *him* and you're *you* — which is, not coincidentally, one of the things he insists on repeatdly in *Walden*), you should do your best to write in the spirit described above. Be as detailed and precise as you can in reporting what you saw in your excursion into nature. But don't leave yourself out of the picture.
 
@@ -39,7 +39,7 @@ When you're happy with what you've written, log into the site, go to the group's
 
 Be sure that you've given your post an appropriate, descriptive, engaging title (not something generic, such as "Blog Post #2"), and that neither the title nor the date is included in the body of your post,
 
-When you're ready to submit your post, click `Submit for Review`.
+When you're ready to submit your post, click `Publish`.
 
 ## How your post will be evaluated
 
@@ -51,5 +51,6 @@ In your blog post, did you &hellip;
 | write *as yourself*, authentically, but in the spirit of Thoreau's nature writing? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | use care in the composition of your post? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | format your post appropriately using Markdown? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| include media (e.g., a photo or embedded audio/video) of what you observed? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | give your post an appropriate, descriptive, engaging title? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
 | keep the title and date out of the body of your post? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
