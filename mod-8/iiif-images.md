@@ -87,11 +87,7 @@ So to display the bracketed and canceled passage on this page, we might call `ht
 
 Determining the right coordinates for a limited image region takes some finagling. If you download the image and open it in an image-viewing application such as Apple’s Preview, you should be able to get approximate coordinates by dragging your cursor over the image. You can then pop the URI-with-coordinates into your browser’s location bar and, by repeatedly adjusting them and refreshing the browser, ascertain that you’re capturing the desired region.
 
-**For your timeline project in ENGL 340, you don’t need to worry about displaying an image section. If you have a strong desire to do so, make an appointment for a video chat with me.**
-
 ## Rotating images
-
-This, too, is unnecessary for your project, but the infomration is included here in case you’d like to give rotating a try.
 
 To rotate an image region, replace the `0` with the desired rotation (e.g., `90` for 90 degrees).
 
