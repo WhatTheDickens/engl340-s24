@@ -22,9 +22,7 @@ Together, your group will carry out four tasks with respect to your selected pas
 
 - [Download the template file](https://github.com/WhatTheDickens/engl340-s24/blob/main/assets/tei-template.xml) for your TEI transcription from GitHub and rename it appropriately.
 
-<!--
+## Other files
 
-## Practice files
-
-- [Handwritten file to transcribe]({{ site.url }}/assets/sample_text_for_tei.pdf)
-- [TEI file for transcribing handwritten practice file]({{ site.url }}/assets/sample_text_for_tei.pdf) -->
+- The [handwritten text]({{ site.url }}/downloads/sample_text_for_tei.pdf) that's the source of the placeholder transcription you see in the template file.
+- A [very basic TEI file](https://github.com/WhatTheDickens/engl340-s24/blob/main/downloads/basic_tei_file.xml) to help orient you in navigating the template file for your assignment.
