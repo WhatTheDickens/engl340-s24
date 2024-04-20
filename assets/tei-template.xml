@@ -43,8 +43,8 @@
    </teiHeader>
  <!-- First document from the list above. You need to include the <sourceDoc> element and its enclosed elements for each item in the list. -->
    <sourceDoc>
-      <surface xml:id="hm924v1n232"><!-- This is just an example. Replace the id with actual xml:id of your first image. -->
-         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/232/full/full/0/default.jpg"/><!-- This is just an example. Replace the url with the actual url of your manuscript page. -->
+      <surface xml:id="hm924v1n84"><!-- This is just an example. Replace the id with actual xml:id of your first image. -->
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/84/full/full/0/default.jpg"/><!-- This is just an example. Replace the url with the actual url of your manuscript page. -->
             <zone>
                <note><!-- Replace this comment with a short note describing the page you're transcribing and how it relates to the story you're telling about a revision or revisions to Walden. --></note>
                <line>Transribe each line of text on the portion</line>
@@ -62,12 +62,15 @@
                <line>main text, you can omit this step. You're</line>
                <line>sure to find this work very <unclear reason="illegible"></unclear></line>
             </zone>
+         <zone>
+            <!-- This is a placeholder for another zone on the same surface. You can transcribe more than one zone of a single surface. Add as many zone elements as you need. -->
+         </zone>
          </surface>
    </sourceDoc>
    <!-- Second document from the list above. -->
    <sourceDoc>
-      <surface xml:id="hm924v1n232"><!-- This is just an example. Replace the id with actual xml:id of your second image. -->
-         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/232/full/full/0/default.jpg"/><!-- This is just an example. Replace the url with the actual url of your manuscript page. -->
+      <surface xml:id="hm924v4n574"><!-- This is just an example. Replace the id with actual xml:id of your second image. -->
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/574/full/full/0/default.jpg"/><!-- This is just an example. Replace the url with the actual url of your manuscript page. -->
          <zone>
             <note><!-- Replace this comment with a short note describing the page you're transcribing and how it relates to the story you're telling about a revision or revisions to Walden. --></note>
             <line>Transribe each line of text on the portion</line>
@@ -84,13 +87,16 @@
             <line>If they're in the same ink used for the</line>
             <line>main text, you can omit this step. You're</line>
             <line>sure to find this work very <unclear reason="illegible"></unclear></line>
+         </zone>
+         <zone>
+            <!-- This is a placeholder for another zone on the same surface. You can transcribe more than one zone of a single surface. Add as many zone elements as you need. -->
          </zone>
       </surface>
    </sourceDoc>
    <!-- Third document from the list above. --> 
    <sourceDoc>
-      <surface xml:id="hm924v1n232"><!-- This is just an example. Replace the id with actual xml:id of your second image. -->
-         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/232/full/full/0/default.jpg"/><!-- This is just an example. Replace the url with the actual url of your manuscript page. -->
+      <surface xml:id="hm924v6n1018"><!-- This is just an example. Replace the id with actual xml:id of your third image. -->
+         <graphic url="https://cdm16003.contentdm.oclc.org/digital/iiif/p16003coll16/1018/full/full/0/default.jpg"/><!-- This is just an example. Replace the url with the actual url of your manuscript page. -->
          <zone>
             <note><!-- Replace this comment with a short note describing the page you're transcribing and how it relates to the story you're telling about a revision or revisions to Walden. --></note>
             <line>Transribe each line of text on the portion</line>
@@ -108,8 +114,10 @@
             <line>main text, you can omit this step. You're</line>
             <line>sure to find this work very <unclear reason="illegible"></unclear></line>
          </zone>
+         <zone>
+            <!-- This is a placeholder for another zone on the same surface. You can transcribe more than one zone of a single surface. Add as many zone elements as you need. -->
+         </zone>
       </surface>
    </sourceDoc>
    <!-- NB: Sometimes Thoreau draws a vertical line through an entire passage or even through a whole page. This kind of mark isn't a deletion. He does this to indicate to himself that he's carried the passage over to a subsequent draft or another part of the current draft. If you come across and example and want to encode it, the right way to do it is: <metamark function="used" rend="line" /> -->
-   
 </TEI>
