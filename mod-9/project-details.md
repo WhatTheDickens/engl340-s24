@@ -26,3 +26,4 @@ Together, your group will carry out four tasks with respect to your selected pas
 
 - The [handwritten text]({{ site.url }}/downloads/sample_text_for_tei.pdf) that's the source of the placeholder transcription you see in the template file.
 - A [very basic TEI file](https://github.com/WhatTheDickens/engl340-s24/blob/main/downloads/basic_tei_file.xml) to help orient you in navigating the template file for your assignment.
+- A [data glossary]({{ site .url }}/mod-9/data-glossary.html) that explains the meaning of TEI elements and attributes used in the template file.
