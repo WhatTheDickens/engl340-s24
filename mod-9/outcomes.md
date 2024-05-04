@@ -94,3 +94,9 @@ At the completion of this module you should
 - Group project work in class.
 
 ***Class work:*** *In your folder for 5-6, share your journal file for the day with notes on the progress of your group project.*
+
+### Wednesday, May 8
+
+- Group project work in class.
+
+***Class work:*** *Sharing a journal file in your folder for 5-8 is optional. If you do share a file, you'll be credited with a bonus point that will offset a previous date when you may have neglected to submit a journal file.*
