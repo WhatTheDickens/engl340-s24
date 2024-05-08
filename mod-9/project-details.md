@@ -30,3 +30,30 @@ Together, your group will carry out four tasks with respect to your selected pas
 - The [handwritten text]({{ site.url }}/downloads/sample_text_for_tei.pdf) that's the source of the placeholder transcription you see in the template file.
 - A [very basic TEI file](https://github.com/WhatTheDickens/engl340-s24/blob/main/downloads/basic_tei_file.xml) to help orient you in navigating the template file for your assignment.
 - A [data glossary]({{ site .url }}/mod-9/data-glossary.html) that explains the meaning of TEI elements and attributes used in the template file.
+
+## How you'll be evaluated
+
+### Final product (20 points)
+
+As a group, did you &hellip;
+
+|   | Not really | A little bit | Somewhat | Pretty much | Yes! |
+| - | ---------- | ------------ | -------- | ----------- | ---- |
+| Select a passage or passages from *Walden* that shows evidence of change on at least two manuscript pages from two of Thoreau's draft versions? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| Develop a hypothesis or hypotheses to explain why Thoreau might have made the revisions you chose to focus on, and support your hypothesis or hypotheses with good reasons and evidence from the text of *Walden*, in a blog post on the Digital Humanities at Geneseo website? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| Include in your blog post some discussion of challenges you faced in doing this work, and how you overcame them? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| Include, as appropriate, IIIF URIs in your blog post to show excerpts from the manuscript pages you studied, so that readers could see and understand the changes you discussed? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| Use Markdown properly in your blog post? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| Include all your names at the top of the blog post? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| Create a valid TEI file describing the manuscript portions relevant to your argument about Thoreau's revisions, including appropriate and correct information in both `teiHeader` and multiple instances of `sourceDoc`?  | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| Offer the class a clear and complete explanation of the revisions you studied in an oral presentation, using slides?| &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+
+### Your individual contribution (10 points)
+
+Individually, did you &hellip;
+
+|   | Not really | A little bit | Somewhat | Pretty much | Yes! |
+| - | ---------- | ------------ | -------- | ----------- | ---- |
+| Play an active role in your group's planning and actions to meet the requirements of the assignment? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| Take significant responsibility for one or more project tasks? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
+| Show yourself to be a reliable group partner by completing work on time and communicating with the group as appropriate? | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; | &#x25A1; |
