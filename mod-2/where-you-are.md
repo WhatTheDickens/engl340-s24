@@ -137,3 +137,11 @@ Take a few minutes now to move around in your file system using the command line
 ## Compare with the GUI
 
 You might want to try putting a terminal window and a Finder or File Explorer window side by side and, as you tool around your file system via the command line, comparing what you see there to what you see in the GUI.
+
+## Exiting a shell session
+
+To exit a shell session, type the following at the prompt, followed by `enter`:
+
+```zsh
+exit
+```
